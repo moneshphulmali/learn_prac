@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> web page </title>
+        <title> my first web page  </title>
 </head>
 <body>
     <h1>WELCOME TO MY CLASSES KHANDWA</H1>
