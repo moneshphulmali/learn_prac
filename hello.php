@@ -8,6 +8,6 @@
     <h2> Madhya Pradesh</h2>
     <p> Indore MP </p>
     <p> Khandwa MP</p>
-    <p> Bhopal</p>
+    <p> Bhopal mp</p>
 </body>
 </html>
