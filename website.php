@@ -3,7 +3,7 @@
         <title> my first web page  </title>
 </head>
 <body>
-    <h1>WELCOME TO MY CLASSES KHANDWA</H1>
+    <h1>WELCOME TO MY CLASSES </H1>
     <form method="POST" action= " ">
             Name : <input type="text" name ="name">
             Email : <input type="text" name ="email">
