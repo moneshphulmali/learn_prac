@@ -8,5 +8,6 @@
     <h2>Khandwa Madhya Pradesh india</h2>
     <h2>Indore Madhya Pradesh india</h2>
     <h2>Bhopal Madhya Pradesh india</h2>
+    <h2>Burhanpure Madhya Pradesh india</h2>
 </body>
 </html>

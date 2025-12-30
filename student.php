@@ -1,7 +1,7 @@
 <html>
-    <head><title>Student infomation </title></head>
+    <head><title>Student infomation  collage</title></head>
     <body>
-        <h1>  <center>STUDENT INFORMATION ON THE IPS COLLAGE</center></h1>
+        <h1>  <center>STUDENT INFORMATION ON THE IPS COLLAGE Indore</center></h1>
         <form  method="POST" action="">
             First Name. <input type="text" name = "f_name"><br>
             Last Name. <input type="text" name ="last_name"><br>
