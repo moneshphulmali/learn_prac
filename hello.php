@@ -6,7 +6,8 @@
     </head><body>
     <h1> Indian country</h1>
     <h2> Madhya Pradesh</h2>
-    <p> Indore</p>
-    <p> Khandwa</p>
+    <p> Indore MP </p>
+    <p> Khandwa MP</p>
+    <p> Bhopal</p>
 </body>
 </html>
