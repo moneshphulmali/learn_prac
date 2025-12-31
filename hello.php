@@ -19,5 +19,6 @@
         <p> Indore MP </p>
         <p> Khandwa MP</p>   <!-- City of Madhya Pradesh -->
         <p> Bhopal mp</p> 
+        <p> Ujjain mp</p>
     </body>
     </html>

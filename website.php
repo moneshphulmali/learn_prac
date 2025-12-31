@@ -3,8 +3,8 @@
         <title> my first web page  </title>
 </head>
 <body>
-    <h1>WELCOME TO MY CLASSES </H1>
-    <h2> please attend regularly
+    <h1>WELCOME TO MY CLASSESs </H1>
+    <h2> please attend regularly </h2>
     <form method="POST" action= " ">
             Name : <input type="text" name ="name">
             Email : <input type="text" name ="email">
