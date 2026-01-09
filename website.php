@@ -4,7 +4,7 @@
 </head>
 <body>
     <h1>WELCOME TO MY CLASSESs </H1>
-    <h2> please attend regularly </h2>
+    <h1> REGISTRATION FORM </h1>
     <form method="POST" action= " ">
             Name : <input type="text" name ="name">
             Email : <input type="text" name ="email">
